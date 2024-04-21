@@ -1,0 +1,29 @@
+/* .pagination {
+   border: 1px solid black;
+   margin: 5px;
+   padding: 5px;
+  } */
+  
+  .pagination a {
+    color: black;   
+    padding: 8px 16px;
+    text-decoration: none;
+    margin: -2px;
+    border: 1px solid #ddd;
+  }
+  
+  .pagination a.active {
+    background-color: #008cff;
+    color: white;
+    border: 1px solid #00a2ff;
+  }
+  .pre {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+  .nex {
+    
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+    
+  }

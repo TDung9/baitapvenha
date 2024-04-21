@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #ececec; 
+  }
+  
+  .property-card {
+    background-color: #ffffff;
+    border: 1px solid #dddddd; 
+    max-width: 300px; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
+    border-radius: 8px; 
+    overflow: hidden; 
+  }
+  img {
+    height: 200px;
+    width: auto;
+  }
+  .name {
+    padding: 15px;
+  }
+  a {
+    text-decoration: none;
+  }
+  .caidau {
+    color: rgb(160, 160, 160);
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding: 5px;
+    
+  }
+  .cai2{
+    color: #888888; 
+    font-size: 0.9rem; 
+    margin-bottom: 10px; 
+    padding: 20px;
+  }
+  
+  .title {
+    color: #333333; 
+    font-size: 1.2rem; 
+    font-weight: bold; 
+    margin-bottom: 10px; 
+    padding: 15px;
+  }
+  
+  .price {
+    color: #00682b; 
+    font-size: 1.1rem; 
+    margin-bottom: 10px;
+    padding: 15px;
+  }
+  
+  .reviews {
+    color: #555555; 
+    font-size: 0.8rem;
+    padding: 15px;
+  }
