@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container {
+    display:flex;
+    flex-direction: column;
+}
+.header {
+    background-color: rgb(254, 203, 109);
+    text-align: center;
+    padding: 1px solid;
+    height: 50px;
+    margin: 5px;
+    align-content: center;
+    border: 1px solid red;
+    width: 98%;
+   }
+   .features {
+    display: flex;
+    flex-wrap: wrap;
+   }
+   .feature {
+    background-color: pink;
+    height: 100px;
+    width: 19.5%;
+    margin: 1px;
+    text-align: center;
+   align-content: center;
+   }
+   .images {
+    display: flex;
+    flex-wrap: wrap;
+   }
+   .image {
+    background-color: yellow;
+    height: 200px;
+    width: 49.5%;
+    margin: 1px;
+    text-align: center;
+   align-content: center;
+   display: flex;
+   }
+   .content1 {
+    height: 200px;
+    background-color: green;
+    text-align: center;
+    align-content: center;
+    width: 29%;
+    color: aliceblue;
+   }
