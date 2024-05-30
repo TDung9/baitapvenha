@@ -1,0 +1,19 @@
+.navbar-nav {
+    display: flex;
+    justify-content: flex-end;
+}
+.nav-item {
+    padding: 8px;
+}
+.container-fluid {
+    background-color: black;
+}
+.brand {
+    font-size: large;
+}
+.card-full {
+    display: flex;
+}
+.card-text {
+    text-align: start !important;
+}
